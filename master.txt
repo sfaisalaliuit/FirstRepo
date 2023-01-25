@@ -1,0 +1,4 @@
+This is the first file from GIT
+using touch master.txt
+and open it using notepad by the command
+notepad master.txt
